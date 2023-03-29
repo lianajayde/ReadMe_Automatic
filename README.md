@@ -10,7 +10,7 @@ I learned how to use node.js.
 *Node.js
 *JavaScript
 
-Helpful websites used..
+Helpful websites used:
 <br>
 https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs, tutor help
 
