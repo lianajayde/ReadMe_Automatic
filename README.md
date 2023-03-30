@@ -12,7 +12,7 @@ I learned how to use node.js.
 
 Helpful websites used:
 <br>
-https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs, tutor help
+https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs, https://www.w3schools.com/, tutor help
 
 # DEMO
 
